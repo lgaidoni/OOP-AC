@@ -1,0 +1,15 @@
+﻿  UserInputFunctions.cpp
+  Resistor.cpp
+  Options.cpp
+  Main.cpp
+  Inductor.cpp
+  DrawEmpty.cpp
+  DrawCircuit.cpp
+  CustomComponent.cpp
+  ComponentLibraryCreator.cpp
+  CircuitNode.cpp
+  CircuitComponent.cpp
+  Capacitor.cpp
+  Generating Code...
+  AC Circuit Final Version.vcxproj -> C:\Users\LUCA-PC\Google Drive\University Of Manchester\3rd Year\OOP C++\AC Circuit Final Version\Debug\AC Circuit Final Version.exe
+  AC Circuit Final Version.vcxproj -> C:\Users\LUCA-PC\Google Drive\University Of Manchester\3rd Year\OOP C++\AC Circuit Final Version\Debug\AC Circuit Final Version.pdb (Full PDB)
